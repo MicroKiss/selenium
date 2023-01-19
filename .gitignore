@@ -1,3 +1,4 @@
 credentials.py
 chromedriver.exe
 *.pyc
+munch/geckodriver.log
